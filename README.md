@@ -19,6 +19,7 @@ Here are the next steps Now that all that is done. Here is the setup from scratc
 1. Open Anaconda navigator
 1. Open Spyder IDE
 1. Click open file
+1. Edit the file to set the chrome_path variable that works with your OS and location
 l. Open spraynpray.py
 1. Click run
 
